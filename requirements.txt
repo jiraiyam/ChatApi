@@ -1,8 +1,6 @@
 fastapi
-scikit-learn
-langchain
-langchain-groq
-langchain-google-genai
-python-dotenv
-uvicorn
 pydantic
+uvicorn
+langchain
+langchain-core
+langchain-groq
