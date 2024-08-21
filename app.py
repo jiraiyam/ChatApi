@@ -12,7 +12,7 @@ app = FastAPI()
 class UserQuery(BaseModel):
     question: str
 
-groq_api_key = "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"
+groq_api_key = "------>"
 
 # Model configuration
 model = 'llama3-8b-8192'
